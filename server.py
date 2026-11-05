@@ -1,4 +1,3 @@
- python
 ''' Executing this function initiates the application of emotion
     detection to be executed over the Flask channel and deployed on
     localhost:5000.
